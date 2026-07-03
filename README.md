@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Dulal%20Ahmed&fontSize=50&fontColor=ffffff&subText=MERN%20Stack%20Developer&subTextSize=20&subTextColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Sujoy&fontSize=50&fontColor=ffffff&subText=MERN%20Stack%20Developer&subTextSize=20&subTextColor=ffffff" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-- 💻 MERN Stack Developer focused on modern web apps  
-- 🌱 Learning Next.js, system design & scalable backend  
-- 🎯 Passionate about clean UI & performance optimization  
-- 📚 Currently improving advanced full-stack architecture  
+- 💻 MERN Stack Developer focused on modern web applications  
+- 🌱 Currently learning system design & scalable backend architecture  
+- 🎯 Passionate about clean UI and performance optimization  
+- 📚 Continuously improving full-stack development skills  
 
 ---
 
