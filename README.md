@@ -17,9 +17,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mssujoykumar566-boop&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mssujoykumar566-boop&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop&layout=compact&langs_count=8)
 
 ---
 
