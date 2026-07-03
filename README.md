@@ -3,7 +3,7 @@
 💻 MERN Stack Developer  
 🚀 React | Node.js | Next.js | MongoDB  
 🌱 Learning advanced backend & system design  
-📫 Contact: yourmail@gmail.com  
+📫 Contact: mssujoykumar566@gmail.com  
 
 ---
 
