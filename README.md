@@ -57,6 +57,13 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mssujoykumar566-boop&bg_color=121319&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=16263f&hide_border=false&border_color=30363d&title_color=58a6ff" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
 
 ## 👀 Profile Views
 
