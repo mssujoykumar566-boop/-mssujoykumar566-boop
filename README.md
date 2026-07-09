@@ -1,4 +1,4 @@
-
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Sujoy&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
 </p>
@@ -65,19 +65,46 @@
 
 
 ---
-
 ## 🚀 Featured Projects
 
-### 💼 HireLoop
-A modern job portal platform connecting recruiters and job seekers with authentication, dashboards, and job management features.
+### 💼 HireLoop - Job Portal Platform
 
-### 🏥 MediCare Connect
-Healthcare management system with doctor listing, appointment features, authentication, and role-based functionality.
+A full-stack job portal application where recruiters can post jobs and job seekers can explore opportunities. Includes authentication, role-based features, dashboards, and job management functionality.
+
+**Tech Stack:**  
+Next.js • React • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
+
+🔗 Live Demo: Your Live Link  
+📂 Frontend: Your GitHub Link  
+📂 Backend: Your GitHub Link
+
+
+---
+
+### 🏥 MediCare Connect - Healthcare Management System
+
+A modern healthcare platform that helps users find doctors, manage appointments, and provides role-based functionality with secure authentication.
+
+**Tech Stack:**  
+Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
+
+🔗 Live Demo: Your Live Link  
+📂 Frontend: Your GitHub Link  
+📂 Backend: Your GitHub Link
+
+
+---
 
 ### 🐾 Pet Adoption Platform
-A MERN stack application for browsing pets, managing adoption requests, and user authentication.
 
+A full-stack pet adoption platform where users can browse pets, view details, and submit adoption requests with secure authentication and database management.
 
+**Tech Stack:**  
+Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
+
+🔗 Live Demo: Your Live Link  
+📂 Frontend: Your GitHub Link  
+📂 Backend: Your GitHub Link
 ---
 
 ## 🔥 Consistent Contributions
