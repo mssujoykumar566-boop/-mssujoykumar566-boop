@@ -123,6 +123,12 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 </p>
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mssujoykumar566-boop&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
   🚀 Consistently coding, learning, and building real-world applications.
   <br/>
   💻 Improving Full Stack Development skills through daily practice and problem solving.
