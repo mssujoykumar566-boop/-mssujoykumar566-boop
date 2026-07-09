@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Sujoy&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
+  Hello i'am  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Halder&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
 </p>
 
 <p align="center">
@@ -72,20 +73,6 @@
 
 ---
 ## 🚀 Featured Projects
-
-### 💼 HireLoop - Job Portal Platform
-
-A full-stack job portal application where recruiters can post jobs and job seekers can explore opportunities. Includes authentication, role-based features, dashboards, and job management functionality.
-
-**Tech Stack:**  
-Next.js • React • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
-
-🔗 Live Demo: Your Live Link  
-📂 Frontend: https://github.com/mssujoykumar566-boop/hireloop-client.git
-📂 Backend: https://github.com/mssujoykumar566-boop/hireloop-server.git
-
-
----
 
 ### 🏥 MediCare Connect - Healthcare Management System
 
