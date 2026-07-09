@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Sujoy&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
 </p>
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
-  👨‍💻 Full Stack Web Developer | MERN Stack Specialist | Building scalable, high-performance web applications with modern technologies
+  👨💻 Full Stack Web Developer | MERN Stack Specialist | Building scalable, high-performance web applications with modern technologies
 </p>
 
 <p align="center">
@@ -125,4 +124,3 @@ A MERN stack application for browsing pets, managing adoption requests, and user
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-```
