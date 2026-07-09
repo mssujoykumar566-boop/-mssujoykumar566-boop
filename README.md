@@ -122,8 +122,6 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mssujoykumar566-boop&theme=tokyonight" />
 </p>
 
-
-
 <p align="center">
   🚀 Consistently coding, learning, and building real-world applications.
   <br/>
