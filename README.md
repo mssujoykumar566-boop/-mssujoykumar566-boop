@@ -67,14 +67,44 @@
 
 ## 🚀 Featured Projects
 
-### 💼 HireLoop
-A modern job portal platform connecting recruiters and job seekers with authentication, dashboards, and job management features.
+### 💼 HireLoop - Job Portal Platform
 
-### 🏥 MediCare Connect
-Healthcare management system with doctor listing, appointment features, authentication, and role-based functionality.
+A full-stack job portal application where recruiters can post jobs and job seekers can explore opportunities. Includes authentication, role-based features, dashboards, and job management functionality.
+
+**Tech Stack:**  
+Next.js • React • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
+
+🔗 Live Demo: Your Live Link  
+📂 Frontend: https://github.com/mssujoykumar566-boop/hireloop-client.git
+📂 Backend: https://github.com/mssujoykumar566-boop/hireloop-server.git
+
+
+---
+
+### 🏥 MediCare Connect - Healthcare Management System
+
+A modern healthcare platform that helps users find doctors, manage appointments, and provides role-based functionality with secure authentication.
+
+**Tech Stack:**  
+Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
+
+🔗 Live Demo: https://madicare-client.vercel.app/
+📂 Frontend: https://github.com/mssujoykumar566-boop/madicare-client.git
+📂 Backend: https://github.com/mssujoykumar566-boop/medicare-server.git
+
+
+---
 
 ### 🐾 Pet Adoption Platform
-A MERN stack application for browsing pets, managing adoption requests, and user authentication.
+
+A full-stack pet adoption platform where users can browse pets, view details, and submit adoption requests with secure authentication and database management.
+
+**Tech Stack:**  
+Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
+
+🔗 Live Demo: https://pet-adoption-rouge-five.vercel.app/ 
+📂 Frontend: https://github.com/mssujoykumar566-boop/pet-adoption.git  
+📂 Backend: https://github.com/mssujoykumar566-boop/pet-adoption-server.git
 
 
 ---
